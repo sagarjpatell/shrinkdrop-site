@@ -3,7 +3,7 @@
 ## Offer
 
 - Product: ShrinkDrop for macOS.
-- Price: CA$79 for CAD checkout or US$79 for USD checkout.
+- Price: CA$5 for CAD checkout or US$5 for USD checkout.
 - Billing: one-time purchase; no subscription or renewal.
 - Checkout: Dodo Payments hosted links, with Dodo acting as Merchant of Record for supported sales.
 - Licensing: Dodo License Key entitlement with automatic key delivery.
