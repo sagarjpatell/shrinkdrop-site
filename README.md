@@ -6,7 +6,7 @@ The site is plain HTML, CSS, and JavaScript. GitHub Pages publishes it for free 
 
 ## Payment plan
 
-- One macOS product with a one-time price of CA$79 or US$79, based on checkout currency.
+- One macOS product with a one-time price of CA$5 or US$5, based on checkout currency.
 - No recurring subscription.
 - Dodo Payments hosted checkout as Merchant of Record.
 - Dodo license-key entitlement for purchase emails and app activation.
